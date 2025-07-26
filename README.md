@@ -90,4 +90,3 @@ This case study shows how CNNs can effectively be used for **multi-task learning
 
 ---
 
-Let me know if you want me to generate the CNN model code or provide a working Colab notebook for it!
